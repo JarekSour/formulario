@@ -1,0 +1,11 @@
+section {
+    padding: 100px 200px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+::ng-deep .cdk-overlay-container {
+    z-index: 99999;
+}
