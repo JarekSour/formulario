@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href /Corporate/Web/VidaIndividual/Desarrollo/ApiFirmaOnlineVI/api/SuscripcionVI",
+    "build": "ng build --base-href /Corporate/Web/VidaIndividual/Desarrollo/SuscripcionVI/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
